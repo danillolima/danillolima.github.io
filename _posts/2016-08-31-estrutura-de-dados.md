@@ -3,8 +3,15 @@ layout: default
 ---
 
 # Listas encadeadas 
+	simplemente encadeadeada
+	/codes/lista-simples
+	duplamente encadeada
+	/codes/lista-dupla
+# Fila
+# Pilha
+# Árvores
 
-
+# Questões
 1. Escreva sobre as vantagens e as desvantages da estrutura de vetor em relação a estrutura
 de lista simplesmente encadeada. Justique os argumentos.  
 R:   
