@@ -9,18 +9,23 @@ html, body{
 height: 100%;
 }
 #main{
-  color: #FFF;
-  background-color: #305090;
+  color: #000;
+  background-color: #fff;
   min-height: 100%;
 }
-
-a:visited{
-  color: #005987;
+a{
+  text-decoration: none;
+  color: #0C2860;
 }
-
+a:visited{
+  color: #718BBD;
+}
+a:hover{
+  color: #718BBD;
+  text-decoration: underline;
+}
 footer{
   position: absolute;
   bottom: 0;
   width: 100%;
 }
-
